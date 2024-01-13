@@ -1,4 +1,29 @@
-![Screenshot 2024-01-04 130624](https://github.com/AmilaThushara/Social-Media-App-Ui/assets/80099554/aa51632a-9672-4dc0-b73e-c1ec02eb6cf4)
-![Screenshot 2024-01-04 130705](https://github.com/AmilaThushara/Social-Media-App-Ui/assets/80099554/e424f5f4-f39e-441e-a115-0d4d5f0f6578)
-![Screenshot 2024-01-04 130645](https://github.com/AmilaThushara/Social-Media-App-Ui/assets/80099554/43990cbb-d20d-4d62-aaf0-2e1107113e91)
+
+![Untitled-1](https://github.com/AmilaThushara/Social-Media-App-Ui/assets/80099554/b565487d-cf73-435b-8afa-a82bfa5289fb)
+
+
+
+
+## Get Started
+
+install dev dependencies
+
+### `npm install` or `yarn install`
+
+## Then
+
+Run The app
+
+### `npm start` or `yarn start`
+
+Runs your app in development mode.
+
+Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
+
+#### `npm run ios` or `yarn run ios`
+
+Like `npm start` / `yarn start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
+
+#### `npm run android` or `yarn run android`
+
 
